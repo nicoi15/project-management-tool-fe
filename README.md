@@ -14,7 +14,9 @@ pnpm dev
 bun dev
 ```
 
-To connect to backend service, add env.local with property SERVICE_BASE_URL=http://localhost:9090
+## To connect to backend service, you need to:
+
+Add `env.local` with property `SERVICE_BASE_URL=http://localhost:9090`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
