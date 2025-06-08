@@ -18,7 +18,7 @@ To connect to backend service, add env.local with property SERVICE_BASE_URL=http
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Getting Started
+## Tech stacks used
 
 - Nextjs 15
 - Material UI 7.1.1 & Material UI Date Pickers
